@@ -1,2 +1,4 @@
 # hello-world
-just a test
+hi humas!
+
+hubot here! I like node.js and kubernates.
